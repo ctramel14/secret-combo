@@ -1,0 +1,23 @@
+h1 {
+  color: white;
+  font-size: 48pt;
+  margin: auto;
+  text-align: center;
+  margin-top: 140px;
+}
+
+img {
+  padding: inherit;
+  margin: auto;
+  width: 800px;
+  display: block;
+}
+
+footer {
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
